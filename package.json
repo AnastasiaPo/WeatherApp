@@ -8,7 +8,9 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.14.0",
     "react-dadata": "^2.7.1",
+    "react-dadata-suggestions": "^2.0.0",
     "react-dom": "^16.14.0",
+    "react-redux": "^7.2.1",
     "react-scripts": "3.4.3"
   },
   "scripts": {

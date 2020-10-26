@@ -2,9 +2,19 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+//import { Provider } from 'react-redux'
+//import { createStore } from 'redux'
+//import todoApp from './reducers'
 import * as serviceWorker from './serviceWorker';
 
+//const store = createStore(todoApp)
+
 ReactDOM.render(
+  // <Provider store={store}>
+  //   <React.StrictMode>
+  //     <App />
+  //   </React.StrictMode>
+  // </Provider>,
   <React.StrictMode>
     <App />
   </React.StrictMode>,
